@@ -28,8 +28,6 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
 
 ## 🚀 Tech Stack & Tools
 
-## 🚀 Tech Stack & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -84,6 +82,8 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
 </p>
 
 ---
+<p align="center">
+
 ### 🧠 Cross-Domain Skills
 
 - Clean, maintainable code  
@@ -94,7 +94,7 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
 - UX-conscious development  
 - Collaboration & version control  
 - Continuous learning mindset  
-
+</p>
 ---
 
 ### ⚡ Let’s Build Amazing Things Together!
