@@ -1,106 +1,108 @@
-<h1 align="center">Hi, I'm <Your Name> 👋</h1>
-<h3 align="center">Full-Stack Developer | React • Node • MongoDB</h3>
+# 👋 Hi, I'm Mikiyas Sahilu
 
-<p align="center">
-  <a href="https://your-portfolio.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/yourname">LinkedIn</a> •
-  <a href="mailto:youremail@gmail.com">Email</a>
-</p>
+**AI/ML Engineer | Full-Stack Developer | Mobile Game Developer**  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Applications&center=true&width=500&height=50">
-</p>
+📫 Contact: [mickeysahilu@gmail.com](mailto:mickeysahilu@gmail.com)  
 
 ---
 
-## 🚀 About Me
+## 🌐 About Me
 
-I'm a full-stack developer focused on building **clean, scalable, real-world applications**.
+I’m a versatile engineer working across **Game Development, AI/Machine Learning, and Full-Stack Development**.  
+I focus on building **interactive experiences, intelligent systems, and end-to-end applications**.  
 
-I enjoy:
-- Turning complex problems into simple, maintainable solutions
-- Writing production-ready, readable code
-- Understanding how things work **under the hood**, not just using abstractions
-
-Currently:
-- 🔭 Building full-stack projects with React, Node, Express & MongoDB
-- 🌱 Deep-diving into system design, performance, and architecture
-- 🎯 Focused on becoming **industry-ready**, not tutorial-ready
+My goal is to create **immersive games, smart AI-driven tools, and scalable web applications**, while maintaining **clean code, performance, and UX excellence**.  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Skills & Tools
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### 🎮 Game Development
 
-### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+**Languages:** C#, C++, Python (tooling / AI)  
+**Engines:** Unity, Unreal Engine  
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+**Skills:**  
+- Gameplay Programming & Game Design  
+- AI Behavior Systems (NPC logic, state machines)  
+- Physics Systems & Procedural Generation  
+- Level Design & UI/UX for Games  
+- Performance Optimization & Multiplayer  
+- Asset Integration & Optimization  
 
----
-
-## 📌 Featured Projects
-
-### 🌍 Portfolio Website
-**Tech:** React, Tailwind CSS, Vercel  
-🔗 **Live:** https://your-portfolio.vercel.app  
-📁 **Repo:** https://github.com/yourusername/portfolio  
-
-A fully responsive personal portfolio showcasing my projects, skills, and experience.
+**Badges:**  
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)  
+[![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
 ---
 
-### 🎬 Movie Explorer App
-**Tech:** React, APIs, Custom Hooks  
-📁 **Repo:** https://github.com/yourusername/movie-app  
+### 🤖 AI / Machine Learning
 
-- Real-time movie search
-- Custom hooks for reusable logic
-- Clean component-based architecture
+**Languages:** Python, JavaScript (AI-integrated frontends)  
+**Frameworks:** TensorFlow, PyTorch  
+
+**Domains:** ML, Deep Learning, NLP, Computer Vision, Reinforcement Learning  
+
+**Tools & APIs:** OpenAI API, FastAPI, RESTful AI APIs, OpenCV, NumPy, Pandas  
+
+**Badges:**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 ---
 
-### 🧾 Full-Stack Tours App *(In Progress)*
-**Tech:** Node.js, Express, MongoDB, Pug, Stripe  
+### 🌐 Full-Stack Development
 
-- RESTful API with filtering, sorting, pagination
-- Authentication & authorization
-- Payments, emails, image uploads
+**Languages:** JavaScript, TypeScript, Python, Go, Java, C#, Swift, Kotlin  
+**Frontend:** React, Next.js, Vue.js, Angular, HTML5, CSS3, Tailwind CSS, Flutter  
+**Backend & APIs:** Node.js, Express.js, Django, Flask, FastAPI, RESTful API, WebSockets  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite  
+**DevOps & Cloud:** Docker, Kubernetes, Google Cloud, Git, GitHub, CI/CD Pipelines  
+
+**Badges:**  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+---
+
+### 🧠 Cross-Domain Skills
+
+- Clean, maintainable code  
+- System architecture & scalability  
+- Problem solving & algorithmic thinking  
+- Performance optimization  
+- Security awareness  
+- UX-conscious development  
+- Collaboration & version control  
+- Continuous learning mindset  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+![Sahilu-Mikiyas GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilu-Mikiyas&show_icons=true&theme=radical&count_private=true)  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilu-Mikiyas&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahilu-Mikiyas&theme=radical)  
 
 ---
 
-## 🤝 Let's Connect
+## 🎉 Animated Flair
 
-If you'd like to:
-- Collaborate on a project
-- Review code together
-- Talk about full-stack development
+![Coding GIF](https://media.giphy.com/media/3o7TKP3p5y6vN9xGLe/giphy.gif)  
+![AI GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
 
-📫 Reach me at: **youremail@gmail.com**
+Hover over badges to see **interactive links** and check your favorite tool docs!  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
-</p>
+### ⚡ Let’s Build Amazing Things Together!
