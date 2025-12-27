@@ -86,6 +86,7 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
 ### 🧠 Cross-Domain Skills
 
 <p align="center">
+  ### 🧠 Cross-Domain Skills
 ✅ Clean, maintainable code<br>
 🏗️ System architecture & scalability<br>
 🧩 Problem solving & algorithmic thinking<br>
