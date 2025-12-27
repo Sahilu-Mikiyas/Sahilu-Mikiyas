@@ -82,19 +82,20 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
 </p>
 
 ---
-<p align="center">
 
 ### 🧠 Cross-Domain Skills
 
-- Clean, maintainable code  
-- System architecture & scalability  
-- Problem solving & algorithmic thinking  
-- Performance optimization  
-- Security awareness  
-- UX-conscious development  
-- Collaboration & version control  
-- Continuous learning mindset  
+<p align="center">
+✅ Clean, maintainable code<br>
+🏗️ System architecture & scalability<br>
+🧩 Problem solving & algorithmic thinking<br>
+⚡ Performance optimization<br>
+🔒 Security awareness<br>
+🎨 UX-conscious development<br>
+🤝 Collaboration & version control<br>
+📚 Continuous learning mindset
 </p>
+
 ---
 
 ### ⚡ Let’s Build Amazing Things Together!
@@ -104,7 +105,3 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
   <a href="https://www.linkedin.com/in/YourLinkedInUsername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/sahilu_mike"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
-
-
-
-
