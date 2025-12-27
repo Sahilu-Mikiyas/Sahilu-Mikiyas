@@ -86,23 +86,6 @@ My goal is to create **immersive games, smart AI-driven tools, and scalable web 
 
 ---
 
-## 📊 GitHub Stats
 
-![Sahilu-Mikiyas GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilu-Mikiyas&show_icons=true&theme=radical&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilu-Mikiyas&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahilu-Mikiyas&theme=radical)  
-
----
-
-## 🎉 Animated Flair
-
-![Coding GIF](https://media.giphy.com/media/3o7TKP3p5y6vN9xGLe/giphy.gif)  
-![AI GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
-
-Hover over badges to see **interactive links** and check your favorite tool docs!  
-
----
 
 ### ⚡ Let’s Build Amazing Things Together!
