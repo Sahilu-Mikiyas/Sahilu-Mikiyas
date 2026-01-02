@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 About Me
+## 🌐 About-Me
 
 I’m a versatile engineer working across **Game Development, AI/Machine Learning, and Full-Stack Development**.  
 I focus on building **interactive experiences, intelligent systems, and end-to-end applications**.  
