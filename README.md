@@ -98,7 +98,7 @@ I craft modern, scalable web applications using React, Next.js, Vue, Angular, HT
 
 ## 💼 My Works
 
-Check out some of my projects and portfolio on my website:  
+You can check out some of my projects and portfolio on my website:  
 🌐 [Visit My Portfolio](https://your-portfolio-website.com)  
 
 ---
