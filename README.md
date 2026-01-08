@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mikiyas Sahilu
 
-**AI/ML Engineer | Full-Stack Developer | Mobile Game Developer**  
+**AI/ML Engineer | Full-Stack Developer | Mobile Game Developer(Speciality🤓)**  
 
 📫 Contact: [mickeysahilu@gmail.com](mailto:mickeysahilu@gmail.com)  
 
